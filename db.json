@@ -1,14 +1,109 @@
 {
-    "products": [
+    "Marriage": [
         {
-            "name": "Chanel Coco Noir Eau De",
-            "productImg": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png",
-            "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
-            "allImages": [
-                "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
-                "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
-                "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
-            ]
+            "id": 1,
+            "fullName": "أحمد منصور حميد ابراهيم",
+            "nationalID": "1234567892002",
+            "date": "29/9/2002",
+            "address": "luxor",
+            "phoneNumber": "01019472864",
+            "familyName": "mansour",
+            "jop": "front-end",
+            "monthlyIncome": "4000",
+            "anotherSource": "لا يوجد",
+            "total": "4000",
+            "wifeName": "wife",
+            "wifeNationalID": "123456",
+            "numberChildren": "5",
+            "agriculturalHolding": true,
+            "landArea": "20 فدان",
+            "landCultivation": true,
+            "areaCultivation": "10  فدن",
+            "landDescription": "رهن",
+            "houseDescription": "صغير جدا",
+            "requiredNeeds": "ثلاجه وغساله",
+            "estimatedBudget": [
+                {
+                    "item": "ثلاجه",
+                    "number": 2,
+                    "unitPrice": 10000,
+                    "total": 20000
+                }
+            ],
+            "researcherOpinion": "الحاله صعبه",
+            "researcher": "منتصر رزق"
+        },
+        {
+            "id": 1,
+            "fullName": "عبدالرحمن سيد ابراهيم علي",
+            "nationalID": "1234567892002",
+            "date": "29/9/2002",
+            "address": "luxor",
+            "phoneNumber": "01019472864",
+            "familyName": "mansour",
+            "jop": "front-end",
+            "monthlyIncome": "4000",
+            "anotherSource": "5000",
+            "total": "9000",
+            "wifeName": "wife",
+            "wifeNationalID": "123456",
+            "numberChildren": "5",
+            "agriculturalHolding": true,
+            "landArea": "20 فدان",
+            "landCultivation": false,
+            "areaCultivation": null,
+            "landDescription": "ايجار",
+            "houseDescription": "صغير جدا",
+            "requiredNeeds": "ثلاجه وغساله",
+            "estimatedBudget": [
+                {
+                    "item": "ثلاجه",
+                    "number": 2,
+                    "unitPrice": 10000,
+                    "total": 20000
+                },
+                {
+                    "item": "غساله",
+                    "number": 2,
+                    "unitPrice": 10000,
+                    "total": 20000
+                }
+            ],
+            "researcherOpinion": "الحاله صعبه",
+            "researcher": "منتصر رزق"
+        },
+        {
+            "id": 1,
+            "fullName": "حمدي فتحي ابراهيم احمد",
+            "nationalID": "1234567892002",
+            "date": "29/9/2002",
+            "address": "luxor",
+            "phoneNumber": "01019472864",
+            "familyName": "mansour",
+            "jop": "front-end",
+            "monthlyIncome": "4000",
+            "anotherSource": "لا يوجد",
+            "total": "4000",
+            "wifeName": "wife",
+            "wifeNationalID": "123456",
+            "numberChildren": "5",
+            "agriculturalHolding": false,
+            "landArea": null,
+            "landCultivation": false,
+            "areaCultivation": null,
+            "landDescription": "ملك",
+            "houseDescription": "صغير جدا",
+            "requiredNeeds": "ثلاجه وغساله",
+            "estimatedBudget": [
+                {
+                    "item": "ثلاجه",
+                    "number": 2,
+                    "unitPrice": 10000,
+                    "total": 20000
+                }
+            ],
+            "researcherOpinion": "الحاله صعبه",
+            "researcher": "منتصر رزق"
         }
     ]
 }
