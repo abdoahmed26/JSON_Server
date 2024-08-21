@@ -1,5 +1,5 @@
 {
-    "Marriage": [
+    "marriage": [
         {
             "id": 1,
             "fullName": "أحمد منصور حميد ابراهيم",
@@ -31,7 +31,8 @@
                 }
             ],
             "researcherOpinion": "الحاله صعبه",
-            "researcher": "منتصر رزق"
+            "researcher": "منتصر رزق",
+            "serveiceType": "marriage"
         },
         {
             "id": 2,
@@ -70,7 +71,8 @@
                 }
             ],
             "researcherOpinion": "الحاله صعبه",
-            "researcher": "منتصر رزق"
+            "researcher": "منتصر رزق",
+            "serviceType": "marriage"
         },
         {
             "id": 3,
@@ -103,7 +105,8 @@
                 }
             ],
             "researcherOpinion": "الحاله صعبه",
-            "researcher": "منتصر رزق"
+            "researcher": "منتصر رزق",
+            "serviceType": "marriage"
         }
     ],
     "illness": [
@@ -134,7 +137,8 @@
                 }
             ],
             "researcherOpinion": "الحاله صعبه",
-            "researcher": "منتصر رزق"
+            "researcher": "منتصر رزق",
+            "serviceType": "illness"
         },
         {
             "id": 2,
@@ -169,7 +173,8 @@
                 }
             ],
             "researcherOpinion": "الحاله صعبه",
-            "researcher": "منتصر رزق"
+            "researcher": "منتصر رزق",
+            "serviceType": "illness"
         },
         {
             "id": 3,
@@ -198,7 +203,8 @@
                 }
             ],
             "researcherOpinion": "الحاله صعبه",
-            "researcher": "منتصر رزق"
+            "researcher": "منتصر رزق",
+            "serviceType": "illness"
         }
     ]
 }
